@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+python-dotenv
+pydantic
+
+# Data & ML
+pandas
+numpy
+scikit-learn
+joblib
+
+# Market data & indicators
+yfinance
+ta
+
+# Gemini-compatible OpenAI client
+openai
